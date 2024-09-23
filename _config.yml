@@ -3,7 +3,7 @@
 
 title: YuiBook
 author: Yui
-logo: logo.png
+logo: book.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
